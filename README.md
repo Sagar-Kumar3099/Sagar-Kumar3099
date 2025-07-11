@@ -37,7 +37,7 @@ Here are a few of my favorite projects. Check them out below:
 2. **[Loan Application Platform](https://github.com/yourusername/loan-app-platform)**  
    A MERN stack-based app for users to apply for and manage loans.  
 
-3. **[Portfolio Website](https://github.com/yourusername/portfolio)**  
+3. **[Portfolio Website](https://sagar-kumar3099.github.io/Sagar-Kumar3099github.io/)**  
    A personal portfolio to showcase my skills and projects, built with React.js.  
 
 ---
