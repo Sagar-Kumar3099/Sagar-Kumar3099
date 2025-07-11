@@ -54,7 +54,7 @@ Here are a few of my favorite projects. Check them out below:
 
 - **Email:** sagarzack2003@gmail.com  
 - **LinkedIn:**  https://www.linkedin.com/in/sagar-kumar3099/
-- **Portfolio:** https://sagar-kumar3099.github.io/portfolio/ 
+- **Portfolio:** https://sagar-kumar3099.github.io/Sagar-Kumar3099github.io/ 
 
 ---
 
