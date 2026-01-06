@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm Sagar Kumar  
+# Hi there!  I'm Sagar Kumar  
 
-🚀 **Aspiring Full-Stack Web Developer** | 🎓 **Lifelong Learner**  
+ **Aspiring Full-Stack Web Developer** | 🎓 **Lifelong Learner**  
 
 Welcome to my GitHub profile! Here, I showcase projects, collaborate on interesting ideas, and share my journey in tech.  
 
 ---
 
-## 🛠️ Skills & Tools  
+##  Skills & Tools  
 
 ### Languages  
 - **Frontend:** HTML, CSS, JavaScript (React.js)  
@@ -19,15 +19,15 @@ Welcome to my GitHub profile! Here, I showcase projects, collaborate on interest
 - Postman (API Testing)  
 ---
 
-## 📘 Education  
+##  Education  
 
 - Computer Science and Engineering
-  Guru Gobind Singh Educational Society's Technical Campus, Bokaro, Jharkhand
-  2021-2024 
+  (Guru Gobind Singh Educational Society's Technical Campus, Bokaro, Jharkhand
+  2021-2024)
 
 ---
 
-## 🌟 Projects  
+##  Projects  
 
 Here are a few of my favorite projects. Check them out below:  
 
@@ -42,7 +42,7 @@ Here are a few of my favorite projects. Check them out below:
 
 ---
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 
 - Advanced React.js (State Management with Redux and Context API)  
 - RESTful APIs and GraphQL  
@@ -50,7 +50,7 @@ Here are a few of my favorite projects. Check them out below:
 
 ---
 
-## 📫 How to Reach Me  
+##  How to Reach Me  
 
 - **Email:** sagarzack2003@gmail.com  
 - **LinkedIn:**  https://www.linkedin.com/in/sagar-kumar3099/
@@ -58,10 +58,10 @@ Here are a few of my favorite projects. Check them out below:
 
 ---
 
-## 🌐 Fun Fact  
+##  Fun Fact  
 
 I’m always excited to learn about new technologies and collaborate on innovative projects. Outside of coding, I enjoy [hobby, e.g., gaming, hiking, photography].  
 
 ---
 
-⭐️ **Feel free to explore my repositories and connect with me for collaborations!**  
+ **Feel free to explore my repositories and connect with me for collaborations!**  
