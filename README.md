@@ -149,22 +149,6 @@ A full-stack application enabling users to apply for and manage loans.
 
 ---
 
-### 🍲 Recipe Sharing Platform
-
-A social platform where users can create, share, rate, and comment on recipes.
-
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
-
----
-
-### 🎨 Real-Time Collaborative Whiteboard
-
-A collaborative drawing application supporting real-time interaction.
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO
-
----
-
 ### 🚗 Used Car Price Prediction Model
 
 Machine Learning model that predicts vehicle prices based on multiple parameters.
@@ -190,7 +174,7 @@ Machine Learning model that predicts vehicle prices based on multiple parameters
 
 💼 LinkedIn: **https://www.linkedin.com/in/sagar-kumar3099/**
 
-🌐 Portfolio: **https://sagar-kumar3099.github.io/Sagar-Kumar3099github.io/**
+🌐 Portfolio: **https://sagar-kumar3099.github.io/**
 
 ---
 
